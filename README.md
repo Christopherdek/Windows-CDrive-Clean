@@ -1,6 +1,8 @@
 # Windows-CDrive-Clean
 
-![image](https://github.com/Christopherdek/Windows-CDrive-Clean/assets/148359456/0d78c790-6832-4828-8372-f34baffccce7)
+<p align="center">
+  <img src="https://github.com/Christopherdek/Windows-CDrive-Clean/assets/148359456/0d78c790-6832-4828-8372-f34baffccce7" alt="Windows Logo">
+</p>
 
 <p>
 How to Clean Your C Drive or Local Disk C in Windows 10,
@@ -19,8 +21,9 @@ This is a simple and short process without the use of any third-party tools or p
 Go to the 'Windows icon' and right-click on it or type 'run' in the search bar. 
 </p>
 
-![image](https://github.com/Christopherdek/Windows-CDrive-Clean/assets/148359456/aa947957-b2c7-4058-9a96-0ea2d62c37ce)
-
+<p align="center">
+  <img src="https://github.com/Christopherdek/Windows-CDrive-Clean/assets/148359456/aa947957-b2c7-4058-9a96-0ea2d62c37ce" alt="Run Menu">
+</p>
 <br />
 
 <p>
@@ -66,7 +69,9 @@ Open the run box for the final time, and type 'prefetch', another folder will op
 </p>
 <br />
 
-![image](https://github.com/Christopherdek/Windows-CDrive-Clean/assets/148359456/6acfd02d-e945-48e5-ad29-9b03ba4dc093)
+<p align="center">
+  <img src="https://github.com/Christopherdek/Windows-CDrive-Clean/assets/148359456/6acfd02d-e945-48e5-ad29-9b03ba4dc093" alt="Recycle Bin">
+</p>
 
 
 <p>
@@ -94,8 +99,9 @@ Uninstall all the unwanted or rarely used software & programs from your computer
 Go to the 'start menu' and search 'uninstall', in the search result select 'add or remove programs'. 
 </p>
 
-![image](https://github.com/Christopherdek/Windows-CDrive-Clean/assets/148359456/abf28cfb-97d3-46fc-9312-6802aa8868b2)
-
+<p align="center">
+  <img src="https://github.com/Christopherdek/Windows-CDrive-Clean/assets/148359456/abf28cfb-97d3-46fc-9312-6802aa8868b2" alt="Add or Remove Programs">
+</p>
 
 <br />
 <p>
